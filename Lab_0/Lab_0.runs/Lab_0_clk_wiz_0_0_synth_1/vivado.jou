@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Sat Jul 25 16:00:14 2020
+# Process ID: 15972
+# Current directory: C:/Users/Administrator/Lab_0/Lab_0.runs/Lab_0_clk_wiz_0_0_synth_1
+# Command line: vivado.exe -log Lab_0_clk_wiz_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Lab_0_clk_wiz_0_0.tcl
+# Log file: C:/Users/Administrator/Lab_0/Lab_0.runs/Lab_0_clk_wiz_0_0_synth_1/Lab_0_clk_wiz_0_0.vds
+# Journal file: C:/Users/Administrator/Lab_0/Lab_0.runs/Lab_0_clk_wiz_0_0_synth_1\vivado.jou
+#-----------------------------------------------------------
+source Lab_0_clk_wiz_0_0.tcl -notrace

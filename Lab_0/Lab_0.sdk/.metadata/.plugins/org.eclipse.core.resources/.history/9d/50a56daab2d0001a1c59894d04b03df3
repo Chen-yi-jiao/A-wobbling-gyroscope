@@ -1,0 +1,18 @@
+/*
+ * ICC.cpp
+ *
+ *  Created on: 2020Äê7ÔÂ28ÈÕ
+ *      Author: Administrator
+ */
+
+#include "ICC.h"
+
+ICC::ICC() {
+	// TODO Auto-generated constructor stub
+
+}
+
+ICC::~ICC() {
+	// TODO Auto-generated destructor stub
+}
+

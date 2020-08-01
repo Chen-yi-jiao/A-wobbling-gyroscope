@@ -1,0 +1,24 @@
+/*
+ * ICC.cpp
+ *
+ *  Created on: 2020Äê7ÔÂ28ÈÕ
+ *      Author: Administrator
+ */
+
+
+#include "ICC.h"
+
+u8 ICC_Write_Data(int Base_Addr,u8 Slave_Addr,u16)
+
+
+
+
+ICC::ICC() {
+	// TODO Auto-generated constructor stub
+
+}
+
+ICC::~ICC() {
+	// TODO Auto-generated destructor stub
+}
+

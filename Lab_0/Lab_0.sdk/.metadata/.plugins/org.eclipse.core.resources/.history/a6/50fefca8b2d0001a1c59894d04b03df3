@@ -1,0 +1,17 @@
+/*
+ * ICC.h
+ *
+ *  Created on: 2020Äê7ÔÂ28ÈÕ
+ *      Author: Administrator
+ */
+
+#ifndef SRC_ICC_H_
+#define SRC_ICC_H_
+
+class ICC {
+public:
+	ICC();
+	virtual ~ICC();
+};
+
+#endif /* SRC_ICC_H_ */
